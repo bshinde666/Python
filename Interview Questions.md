@@ -1,9 +1,9 @@
 🔹 1. Statistics & Mathematics Fundamentals
 
-  What is correlation?
-  What is the difference between variance and covariance?
-  What is multicollinearity?
-  What is R² score?
+  1) What is correlation?
+  2) What is the difference between variance and covariance?
+  3) What is multicollinearity?
+  4) What is R² score?
 
   🔹 2. Core Machine Learning Concepts
   

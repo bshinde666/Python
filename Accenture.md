@@ -1,4 +1,4 @@
-Accenture L1 Round for HR Analytics Project.
+Accenture L1 Round for HR Analytics Project. (30 Mins)
 
 1) Could you please introduce yourself and briefly walk me through your background?
 2) Can you explain the difference between a list and a dictionary in Python?

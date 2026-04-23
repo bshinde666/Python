@@ -1,0 +1,27 @@
+Tiger Analytics - L1 Round - 57 Minutes
+
+1. Please start with your introduction, including your current project, the tools you use, and your skills.
+2. Can you elaborate on a regression or classification problem you have worked on, including the problem statement, your solution, and your major contribution?
+3. How would you rate yourself on a scale of 0 to 10 in the following areas: Data Science, Machine Learning, Python, SQL, Statistical Modeling, Docker/Git, and GenAI?
+4. How do you handle missing values and outliers in a dataset before building a predictive model?
+5. What is the difference between bias and variance?
+6. How do you detect and address bias and variance when building a model?
+7. Can you explain the difference between accuracy and the F1 score?
+8. Write a Python function to compute the accuracy and F1 score given true and predicted labels.
+9. Please define the table schema and column names for a customer purchases table.
+10. Write a SQL query to find the customers with the highest average purchase amount in the last 6 months.
+11. How do you interpret coefficients in a multiple linear regression model?
+12. What underlying assumptions must hold true for a multiple linear regression model?
+13. Can you explain the concept of correlation with an example?
+14. How do you perform hyperparameter tuning for a classification model using Grid Search or Bayesian Optimization?
+15. Can you describe your experience or learnings with GenAI projects (e.g., working with LLMs, prompt engineering, or fine-tuning)?
+16. What challenges did you face while implementing or evaluating GenAI projects?
+17. What is your approach to building a forecasting model for sales or demand data that exhibits both trend and seasonality?
+18. Which specific models or techniques would you consider for time series data with trend and seasonality?
+19. Can you write the Python code to perform a train-test split?
+20. How do you normalize a column using MinMax scaling?
+21. Do you apply MinMax scaling before or after splitting the data into train and test sets?
+22. Write a SQL query to retrieve the top five highest salaries from an employee table.
+23. In SQL, what is the difference between the WHERE and HAVING clauses?
+24. What cross-functional teams do you collaborate and communicate with in your current organization?
+25. What is your primary motivation for looking for new job opportunities?

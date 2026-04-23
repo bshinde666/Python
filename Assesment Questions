@@ -1,0 +1,5 @@
+1) for df.groupby('g')['x'].agg(['mean','max']) what is produced ?
+-- Dataframe with 'mean' and 'max' columns indexed by 'g'
+-- Three-level Multiindex series 
+-- Raises TypeError
+-- Single series with mean values 

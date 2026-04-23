@@ -1,5 +1,7 @@
 **Question:**
 For df.groupby('g')['x'].agg(['mean','max']) what is produced ?
+
+**Options:**
 -- Dataframe with 'mean' and 'max' columns indexed by 'g'
 -- Three-level Multiindex series 
 -- Raises TypeError
@@ -9,7 +11,17 @@ For df.groupby('g')['x'].agg(['mean','max']) what is produced ?
 What does `df['col'].isna().sum()` compute?
 
 **Options:**
-* **A** Total unique values in col
-* **B** Number of non-null values in col
-* **C** Positions of NaNs
-* **D** Number of null/NaN values in col
+-- Total unique values in col
+-- Number of non-null values in col
+-- Positions of NaNs
+-- Number of null/NaN values in col
+
+**Question:**
+
+A manufacturing company wants to minimize production cost without explicit constraints on resources or capacity. Which approach is most effective for building a robust unconstrained optimization model?
+
+-- Construct a smooth objective function, initialize variables based on expected operational ranges, and use a conjugate gradient method to reach the optimum reliably.
+-- Formulate the objective function, choose an initial estimate based on prior production data, and employ a trust-region method to ensure stable convergence.
+-- Define a differentiable objective function representing production cost, select reasonable initial values, evaluate multiple starting points to address local minima, and use gradient information for convergence efficiency.
+-- Use a differentiable objective function, select multiple starting points, and apply a quasi-Newton method to find the optimal solution efficiently.
+-- Represent the production cost as a continuous function, select initial points using historical production ranges, and apply gradient-based optimization with step-size control.
